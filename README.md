@@ -1,7 +1,7 @@
 
 # MovieWishlist-App
 
-It is a movie seach app where you can search a Movie or a TV Show.
+It is a movie search app where you can search a Movie or a TV Show.
 You can also Add favourites (They are save in your local storage. 
 They will not be deleted even if you reload the page).
 Also you can Delete favourites.
