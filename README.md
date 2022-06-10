@@ -7,5 +7,5 @@
 
 #### Search a movie
 #### Search a TV Show
-#### Add favourites (They are save in your local storage. They will not be deleted even if you reload the page)
+#### Add favourites ######(They are save in your local storage. They will not be deleted even if you reload the page)
 #### Delete favourites
